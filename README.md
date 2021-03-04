@@ -36,6 +36,10 @@ This will open Expo Developer Tools in the browser. You can then do one of the f
 | :------- | :-------------------- | :----------------- |
 | Android  | Xiaomi (android 10.0)   | :white_check_mark: |
 
+## Credits
+
+Credits to https://github.com/maanizfar/mobile-flashcards for inspiration.
+
 ## License
 
 Licensed under MIT
