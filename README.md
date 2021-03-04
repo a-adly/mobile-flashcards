@@ -30,6 +30,12 @@ This will open Expo Developer Tools in the browser. You can then do one of the f
   - [Android Emulator Setup](https://docs.expo.io/workflow/android-studio-emulator/)
   - [iOS Simulator Setup](https://docs.expo.io/workflow/ios-simulator/)
 
+## Tests
+
+| Platform | Device                | Tested             |
+| :------- | :-------------------- | :----------------- |
+| Android  | Xiaomi (android 10.0)   | :white_check_mark: |
+
 ## License
 
 Licensed under MIT
